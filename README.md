@@ -8,6 +8,15 @@ email. You can find bits of my work under my
 [Github](https://github.com/biboudis) page. I like about PL, computer
 science and geek stuff [@biboudis](https://twitter.com/biboudis).
 
+e-mail: biboudis [at] di.uoa.gr 
+
+### Interests
+
+- Modular extensibility
+- Metaprogramming
+- Staging
+- Streams
+
 ### Research
 
 - Programming Languages: I currently work on program generators, modular type systems and streams.
