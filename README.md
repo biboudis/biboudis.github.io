@@ -1,28 +1,28 @@
-## Aggelos Biboudis
 
 My name is Aggelos Biboudis (Άγγελος Μπιμπούδης in Greek) and I’m a PhD student
-at Dept. of Informatics and Telecommunications, University of Athens, under the
-supervision of Yannis Smaragdakis since July 2012.
+at [Dept. of Informatics and Telecommunications](http://www.di.uoa.gr/), [University of Athens](http://www.uoa.gr/), under the
+supervision of [Yannis Smaragdakis](http://www.di.uoa.gr/~smaragd/) since July 2012.
 
-You can contact me on LinkedIn and Google+. You can also find bits of my work
-under my Github page. I also maintain a blog (low-traffic). I like tweeting
-about PL, computer science and geek stuff.
+You can contact me on [LinkedIn](https://www.linkedin.com/in/biboudis) and via
+email. You can find bits of my work under my
+[Github](https://github.com/biboudis) page. I like [tweeting](https://twitter.com/biboudis) about PL, computer
+science and geek stuff.
 
 ### Research
 
 - Programming Languages: I currently work on program generators, modular type systems and streams.
-  - A. Biboudis, N. Palladinos, G. Fourtounis and Y. Smaragdakis, "Streams à la carte: Extensible Pipelines with Object Algebras" (ECOOP15)
-  - A. Biboudis, G. Fourtounis and Y. Smaragdakis, jUCM: Universal Class Morphing (position paper), (MASPEGHI15)
-  - A. Biboudis and E. Burmako, "MorphScala: Safe Class Morphing with Macros" (SCALA14)
-  - A. Biboudis, N. Palladinos and Y. Smaragdakis, "Clash of the Lambdas" (ICOOOLPS14)
-  - P. Gerakios, A. Biboudis, and Y. Smaragdakis, "Reified Type Parameters Using Java Annotations" (GPCE13)
-  - P. Gerakios, A. Biboudis, and Y. Smaragdakis, "Forsaking Inheritance: Supercharged Delegation in DelphJ" (OOPSLA13)
+  - A. Biboudis, N. Palladinos, G. Fourtounis and Y. Smaragdakis, "Streams à la carte: Extensible Pipelines with Object Algebras" ECOOP15 ([paper](http://cgi.di.uoa.gr/~biboudis/streamalg.pdf), [slides](https://speakerdeck.com/biboudis/streams-a-la-carte), [code](http://biboudis.github.io/streamalg/))
+  - A. Biboudis, G. Fourtounis and Y. Smaragdakis, jUCM: Universal Class Morphing (position paper), MASPEGHI15 ([paper](http://arxiv.org/abs/1506.05270), [slides](https://speakerdeck.com/biboudis/jucm-universal-class-morphing))
+  - A. Biboudis and E. Burmako, "MorphScala: Safe Class Morphing with Macros", SCALA14 ([paper](http://cgi.di.uoa.gr/~biboudis/morphscala.pdf))
+  - A. Biboudis, N. Palladinos and Y. Smaragdakis, "Clash of the Lambdas", ICOOOLPS14 ([paper](http://arxiv.org/abs/1406.6631), [slides](https://speakerdeck.com/biboudis/clash-of-the-lambdas), [code](http://biboudis.github.io/clashofthelambdas/))
+  - P. Gerakios, A. Biboudis, and Y. Smaragdakis, "Reified Type Parameters Using Java Annotations", GPCE13 ([paper](http://cgi.di.uoa.gr/~biboudis/reified-annot-gpce13.pdf), [slides](https://speakerdeck.com/biboudis/reified-type-parameters-using-java-annotations), [poster](http://cgi.di.uoa.gr/~biboudis/reified-annot-gpce13-poster.pdf))
+  - P. Gerakios, A. Biboudis, and Y. Smaragdakis, "Forsaking Inheritance: Supercharged Delegation in DelphJ", OOPSLA13 ([paper](http://cgi.di.uoa.gr/~biboudis/forsaking-inheritance-oopsla13.pdf)
 - Computer Vision: I worked on the research and development for mobiXeyes, a real-time stereo-vision algorithm for telemetry of a high speed moving object (ball) in tennis sports.
-  - Project: mobiXeyes
+  - Project: [mobiXeyes](http://www.mobics.gr/projects/mobiXeyes)
 - Wireless Sensor Networks: In the field of WSN I worked on sensor data fusion (through evidence theory) and modular application development for sensor networks.
-  - E. Zervas, A. Biboudis, C. Anagnostopoulos, O. Sekkas, and S. Hadjiefthymiades, "Multisensor data fusion for fire detection" (Information Fusion)
-  - "Data fusion based on evidence theory: Application to the early warning fire" (BSc Thesis)
-  - Projects: IDIRA, SCIER, MNISIKLIS
+  - E. Zervas, A. Biboudis, C. Anagnostopoulos, O. Sekkas, and S. Hadjiefthymiades, "Multisensor data fusion for fire detection", ([pdf](http://dx.doi.org/10.1016/j.inffus.2009.12.006))
+  - "Data fusion based on evidence theory: Application to the early warning fire"
+  - Projects: [IDIRA](http://www.idira.eu/), [SCIER](http://www.scier.eu/), [MNISIKLIS](http://speech.di.uoa.gr/mnisiklis/)
 
 ### Activities
 
@@ -58,5 +58,5 @@ about PL, computer science and geek stuff.
 - TA, TP06-Compilers (2012) by Professor Y. Smaragdakis
 
 ### Memberships
-- ACM/SIGPLAN member
-- F# Software Foundation member
+- [ACM/SIGPLAN member](http://campus.acm.org/public/vcard/vcard.cfm?handle=biboudis)
+- [F# Software Foundation member](http://fsharp.org/)
