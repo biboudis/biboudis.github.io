@@ -11,12 +11,12 @@ science and geek stuff.
 ### Research
 
 - Programming Languages: I currently work on program generators, modular type systems and streams.
-  - A. Biboudis, N. Palladinos, G. Fourtounis and Y. Smaragdakis, "Streams à la carte: Extensible Pipelines with Object Algebras" ECOOP15 ([paper](http://cgi.di.uoa.gr/~biboudis/streamalg.pdf), [slides](https://speakerdeck.com/biboudis/streams-a-la-carte), [code](http://biboudis.github.io/streamalg/))
-  - A. Biboudis, G. Fourtounis and Y. Smaragdakis, jUCM: Universal Class Morphing (position paper), MASPEGHI15 ([paper](http://arxiv.org/abs/1506.05270), [slides](https://speakerdeck.com/biboudis/jucm-universal-class-morphing))
-  - A. Biboudis and E. Burmako, "MorphScala: Safe Class Morphing with Macros", SCALA14 ([paper](http://cgi.di.uoa.gr/~biboudis/morphscala.pdf))
-  - A. Biboudis, N. Palladinos and Y. Smaragdakis, "Clash of the Lambdas", ICOOOLPS14 ([paper](http://arxiv.org/abs/1406.6631), [slides](https://speakerdeck.com/biboudis/clash-of-the-lambdas), [code](http://biboudis.github.io/clashofthelambdas/))
-  - P. Gerakios, A. Biboudis, and Y. Smaragdakis, "Reified Type Parameters Using Java Annotations", GPCE13 ([paper](http://cgi.di.uoa.gr/~biboudis/reified-annot-gpce13.pdf), [slides](https://speakerdeck.com/biboudis/reified-type-parameters-using-java-annotations), [poster](http://cgi.di.uoa.gr/~biboudis/reified-annot-gpce13-poster.pdf))
-  - P. Gerakios, A. Biboudis, and Y. Smaragdakis, "Forsaking Inheritance: Supercharged Delegation in DelphJ", OOPSLA13 ([paper](http://cgi.di.uoa.gr/~biboudis/forsaking-inheritance-oopsla13.pdf)
+  - A. Biboudis, N. Palladinos, G. Fourtounis and Y. Smaragdakis, "Streams à la carte: Extensible Pipelines with Object Algebras" ECOOP'15 ([paper](http://cgi.di.uoa.gr/~biboudis/streamalg.pdf), [slides](https://speakerdeck.com/biboudis/streams-a-la-carte), [code](http://biboudis.github.io/streamalg/))
+  - A. Biboudis, G. Fourtounis and Y. Smaragdakis, jUCM: Universal Class Morphing (position paper), MASPEGHI'15 ([paper](http://arxiv.org/abs/1506.05270), [slides](https://speakerdeck.com/biboudis/jucm-universal-class-morphing))
+  - A. Biboudis and E. Burmako, "MorphScala: Safe Class Morphing with Macros", SCALA'14 ([paper](http://cgi.di.uoa.gr/~biboudis/morphscala.pdf))
+  - A. Biboudis, N. Palladinos and Y. Smaragdakis, "Clash of the Lambdas", ICOOOLPS'14 ([paper](http://arxiv.org/abs/1406.6631), [slides](https://speakerdeck.com/biboudis/clash-of-the-lambdas), [code](http://biboudis.github.io/clashofthelambdas/))
+  - P. Gerakios, A. Biboudis, and Y. Smaragdakis, "Reified Type Parameters Using Java Annotations", GPCE'13 ([paper](http://cgi.di.uoa.gr/~biboudis/reified-annot-gpce13.pdf), [slides](https://speakerdeck.com/biboudis/reified-type-parameters-using-java-annotations), [poster](http://cgi.di.uoa.gr/~biboudis/reified-annot-gpce13-poster.pdf))
+  - P. Gerakios, A. Biboudis, and Y. Smaragdakis, "Forsaking Inheritance: Supercharged Delegation in DelphJ", OOPSLA'13 ([paper](http://cgi.di.uoa.gr/~biboudis/forsaking-inheritance-oopsla13.pdf))
 - Computer Vision: I worked on the research and development for mobiXeyes, a real-time stereo-vision algorithm for telemetry of a high speed moving object (ball) in tennis sports.
   - Project: [mobiXeyes](http://www.mobics.gr/projects/mobiXeyes)
 - Wireless Sensor Networks: In the field of WSN I worked on sensor data fusion (through evidence theory) and modular application development for sensor networks.
@@ -38,18 +38,15 @@ science and geek stuff.
 
 ### Talks
 
-- Streams à la carte: Extensible Pipelines with Object Algebras, PL Seminar, Dec 2014
-- F#, Invited talk at OOP seminar, Jan 2015
-- Introduction to F# 3.0, Invited talk at OOP seminar, Mar 2014
-- Introduction to F# 3.0 (also demo code), Invited talk at OOP seminar, Jan 2013
-- JavaCC & JTB, Compilers course, Apr 2012
-- SableCC, Compilers course, Mar 2012
-- All about Reactive Extensions (also demo code), 49ο dotNETZone.gr Community Event, Feb 2012
-- Introduction to F# (also demo code), Invited talk at OOP seminar, Feb 2012
-- Deadlock detection & avoidance, OS lecture, Jan 2012
-- Business Apps with Silverlight, IT Pro | Dev Connections, Oct 2010
-- Introduction to Azure, Jul 2010
-- Introduction to .NET Framework and C#, Invited talk at Information Systems AUEB, Jan 2010
+- [Streams à la carte: Extensible Pipelines with Object Algebras](https://slides.com/biboudis/streamalg-presentation/), PL Seminar, Dec 2014
+- [F#](http://slides.com/biboudis/fs/), Invited talk at OOP seminar, Jan 2015
+- Introduction to F#, Invited talk at OOP seminar, [Mar 2014](https://speakerdeck.com/biboudis/introduction-to-f-number-3-dot-1), [Jan 2013](https://speakerdeck.com/biboudis/introduction-to-f-number-3-dot-0), [Feb 2012](https://speakerdeck.com/biboudis/introduction-to-f-number)
+- [JavaCC & JTB](https://speakerdeck.com/biboudis/javacc-and-jtb-tutorial), [SableCC](https://speakerdeck.com/biboudis/sablecc), TP06-Compilers
+- [All about Reactive Extensions](https://speakerdeck.com/biboudis/all-about-rx-in-greek) (also demo code), 49ο dotNETZone.gr Community Event, Feb 2012
+- [Deadlock detection & avoidance](https://speakerdeck.com/biboudis/deadlocks), OS lecture, Jan 2012
+- [Business Apps with Silverlight](https://speakerdeck.com/biboudis/lob-applications-with-silverlight-in-greek), IT Pro | Dev Connections, Oct 2010
+- [Introduction to Azure](https://speakerdeck.com/biboudis/introduction-to-azure), Jul 2010
+- [Introduction to .NET Framework and C#](https://speakerdeck.com/biboudis/introduction-to-net-and-c-number-in-greek), Invited talk at Information Systems AUEB, Jan 2010
 
 ### Teaching
 - TA/Lab, K04-Introduction to Programming (2011) by Professor P. Stamatopoulos
