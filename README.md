@@ -14,7 +14,7 @@ science and geek stuff [@biboudis](https://twitter.com/biboudis).
   - A. Biboudis, N. Palladinos, G. Fourtounis and Y. Smaragdakis,
     "[Streams à la carte: Extensible Pipelines with Object Algebras][]",
     ECOOP'15 ([slides](https://speakerdeck.com/biboudis/streams-a-la-carte),
-    [code](http://biboudis.github.io/streamalg/))
+    [code](http://biboudis.github.io/streamalg/), [bib](bibliography/streams-ecoop15.bib))
   - A. Biboudis, G. Fourtounis and Y. Smaragdakis,
     "[jUCM: Universal Class Morphing (position paper)][]", MASPEGHI'15
     ([slides](https://speakerdeck.com/biboudis/jucm-universal-class-morphing))
@@ -27,7 +27,7 @@ science and geek stuff [@biboudis](https://twitter.com/biboudis).
   - P. Gerakios, A. Biboudis, and Y. Smaragdakis,
     "[Reified Type Parameters Using Java Annotations][]", GPCE'13
     ([slides](https://speakerdeck.com/biboudis/reified-type-parameters-using-java-annotations),
-    [poster](http://cgi.di.uoa.gr/~biboudis/reified-annot-gpce13-poster.pdf))
+    [poster](/papers/reified-annot-gpce13-poster.pdf))
   - P. Gerakios, A. Biboudis, and Y. Smaragdakis,
     "[Forsaking Inheritance: Supercharged Delegation in DelphJ][]", OOPSLA'13
 - Computer Vision: I worked on the research and development for mobiXeyes, a
@@ -53,13 +53,13 @@ science and geek stuff [@biboudis](https://twitter.com/biboudis).
 
 [jUCM: Universal Class Morphing (position paper)]: http://arxiv.org/abs/1506.05270
 
-[MorphScala: Safe Class Morphing with Macros]: http://cgi.di.uoa.gr/~biboudis/morphscala.pdf
+[MorphScala: Safe Class Morphing with Macros]: /papers/morphscala.pdf
 
 [Clash of the Lambdas]: http://arxiv.org/abs/1406.6631
 
-[Reified Type Parameters Using Java Annotations]: http://cgi.di.uoa.gr/~biboudis/reified-annot-gpce13.pdf
+[Reified Type Parameters Using Java Annotations]: /papers/reified-annot-gpce13.pdf
 
-[Forsaking Inheritance: Supercharged Delegation in DelphJ]: http://cgi.di.uoa.gr/~biboudis/forsaking-inheritance-oopsla13.pdf
+[Forsaking Inheritance: Supercharged Delegation in DelphJ]: /papers/forsaking-inheritance-oopsla13.pdf
 
 ### Activities
 
