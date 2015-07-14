@@ -16,7 +16,7 @@ science and geek stuff [@biboudis](https://twitter.com/biboudis).
   - A. Biboudis and E. Burmako, "[MorphScala: Safe Class Morphing with Macros][]", SCALA'14
   - A. Biboudis, N. Palladinos and Y. Smaragdakis, "[Clash of the Lambdas][]", ICOOOLPS'14 ([slides](https://speakerdeck.com/biboudis/clash-of-the-lambdas), [code](http://biboudis.github.io/clashofthelambdas/))
   - P. Gerakios, A. Biboudis, and Y. Smaragdakis, "[Reified Type Parameters Using Java Annotations][]", GPCE'13 ([slides](https://speakerdeck.com/biboudis/reified-type-parameters-using-java-annotations), [poster](http://cgi.di.uoa.gr/~biboudis/reified-annot-gpce13-poster.pdf))
-  - P. Gerakios, A. Biboudis, and Y. Smaragdakis, "[Forsaking Inheritance: Supercharged Delegation in DelphJ][http://cgi.di.uoa.gr/~biboudis/forsaking-inheritance-oopsla13.pdf]", OOPSLA'13
+  - P. Gerakios, A. Biboudis, and Y. Smaragdakis, "[Forsaking Inheritance: Supercharged Delegation in DelphJ][]", OOPSLA'13
 - Computer Vision: I worked on the research and development for mobiXeyes, a real-time stereo-vision algorithm for telemetry of a high speed moving object (ball) in tennis sports.
   - Project: [mobiXeyes][]
 - Wireless Sensor Networks: In the field of WSN I worked on sensor data fusion (through evidence theory) and modular application development for sensor networks.
@@ -40,7 +40,7 @@ science and geek stuff [@biboudis](https://twitter.com/biboudis).
 
 [Reified Type Parameters Using Java Annotations]: http://cgi.di.uoa.gr/~biboudis/reified-annot-gpce13.pdf
 
-[http://cgi.di.uoa.gr/~biboudis/forsaking-inheritance-oopsla13.pdf]: 
+[Forsaking Inheritance: Supercharged Delegation in DelphJ]: http://cgi.di.uoa.gr/~biboudis/forsaking-inheritance-oopsla13.pdf
 
 ### Activities
 
