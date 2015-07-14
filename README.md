@@ -5,24 +5,42 @@ supervision of [Yannis Smaragdakis](http://www.di.uoa.gr/~smaragd/) since July 2
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/biboudis) and via
 email. You can find bits of my work under my
-[Github](https://github.com/biboudis) page. I like [tweeting](https://twitter.com/biboudis) about PL, computer
-science and geek stuff.
+[Github](https://github.com/biboudis) page. I like about PL, computer
+science and geek stuff [@biboudis](https://twitter.com/biboudis).
 
 ### Research
 
 - Programming Languages: I currently work on program generators, modular type systems and streams.
-  - A. Biboudis, N. Palladinos, G. Fourtounis and Y. Smaragdakis, "Streams à la carte: Extensible Pipelines with Object Algebras" ECOOP'15 ([paper](http://cgi.di.uoa.gr/~biboudis/streamalg.pdf), [slides](https://speakerdeck.com/biboudis/streams-a-la-carte), [code](http://biboudis.github.io/streamalg/))
-  - A. Biboudis, G. Fourtounis and Y. Smaragdakis, jUCM: Universal Class Morphing (position paper), MASPEGHI'15 ([paper](http://arxiv.org/abs/1506.05270), [slides](https://speakerdeck.com/biboudis/jucm-universal-class-morphing))
-  - A. Biboudis and E. Burmako, "MorphScala: Safe Class Morphing with Macros", SCALA'14 ([paper](http://cgi.di.uoa.gr/~biboudis/morphscala.pdf))
-  - A. Biboudis, N. Palladinos and Y. Smaragdakis, "Clash of the Lambdas", ICOOOLPS'14 ([paper](http://arxiv.org/abs/1406.6631), [slides](https://speakerdeck.com/biboudis/clash-of-the-lambdas), [code](http://biboudis.github.io/clashofthelambdas/))
-  - P. Gerakios, A. Biboudis, and Y. Smaragdakis, "Reified Type Parameters Using Java Annotations", GPCE'13 ([paper](http://cgi.di.uoa.gr/~biboudis/reified-annot-gpce13.pdf), [slides](https://speakerdeck.com/biboudis/reified-type-parameters-using-java-annotations), [poster](http://cgi.di.uoa.gr/~biboudis/reified-annot-gpce13-poster.pdf))
-  - P. Gerakios, A. Biboudis, and Y. Smaragdakis, "Forsaking Inheritance: Supercharged Delegation in DelphJ", OOPSLA'13 ([paper](http://cgi.di.uoa.gr/~biboudis/forsaking-inheritance-oopsla13.pdf))
+  - A. Biboudis, N. Palladinos, G. Fourtounis and Y. Smaragdakis, "[Streams à la carte: Extensible Pipelines with Object Algebras][]" ECOOP'15 ([slides](https://speakerdeck.com/biboudis/streams-a-la-carte), [code](http://biboudis.github.io/streamalg/))
+  - A. Biboudis, G. Fourtounis and Y. Smaragdakis, "[jUCM: Universal Class Morphing (position paper)][]", MASPEGHI'15 ([slides](https://speakerdeck.com/biboudis/jucm-universal-class-morphing))
+  - A. Biboudis and E. Burmako, "[MorphScala: Safe Class Morphing with Macros][]", SCALA'14
+  - A. Biboudis, N. Palladinos and Y. Smaragdakis, "[Clash of the Lambdas][]", ICOOOLPS'14 ([slides](https://speakerdeck.com/biboudis/clash-of-the-lambdas), [code](http://biboudis.github.io/clashofthelambdas/))
+  - P. Gerakios, A. Biboudis, and Y. Smaragdakis, "[Reified Type Parameters Using Java Annotations][]", GPCE'13 ([slides](https://speakerdeck.com/biboudis/reified-type-parameters-using-java-annotations), [poster](http://cgi.di.uoa.gr/~biboudis/reified-annot-gpce13-poster.pdf))
+  - P. Gerakios, A. Biboudis, and Y. Smaragdakis, "[Forsaking Inheritance: Supercharged Delegation in DelphJ][http://cgi.di.uoa.gr/~biboudis/forsaking-inheritance-oopsla13.pdf]", OOPSLA'13
 - Computer Vision: I worked on the research and development for mobiXeyes, a real-time stereo-vision algorithm for telemetry of a high speed moving object (ball) in tennis sports.
-  - Project: [mobiXeyes](http://www.mobics.gr/projects/mobiXeyes)
+  - Project: [mobiXeyes][]
 - Wireless Sensor Networks: In the field of WSN I worked on sensor data fusion (through evidence theory) and modular application development for sensor networks.
-  - E. Zervas, A. Biboudis, C. Anagnostopoulos, O. Sekkas, and S. Hadjiefthymiades, "Multisensor data fusion for fire detection", ([pdf](http://dx.doi.org/10.1016/j.inffus.2009.12.006))
-  - "Data fusion based on evidence theory: Application to the early warning fire"
+  - E. Zervas, A. Biboudis, C. Anagnostopoulos, O. Sekkas, and S. Hadjiefthymiades, "[Multisensor data fusion for fire detection][]"
+  - "[Data fusion based on evidence theory: Application to the early warning fire][]"
   - Projects: [IDIRA](http://www.idira.eu/), [SCIER](http://www.scier.eu/), [MNISIKLIS](http://speech.di.uoa.gr/mnisiklis/)
+
+[Data fusion based on evidence theory: Application to the early warning fire]: http://p-comp.di.uoa.gr/resources/Aggelos_Mpimpoudis_Ptyxiaki.pdf
+
+[Multisensor data fusion for fire detection]: http://dx.doi.org/10.1016/j.inffus.2009.12.006
+
+[mobiXeyes]: http://www.mobics.gr/projects/mobiXeyes
+
+[Streams à la carte: Extensible Pipelines with Object Algebras]: http://drops.dagstuhl.de/opus/volltexte/2015/5239/
+
+[jUCM: Universal Class Morphing (position paper)]: http://arxiv.org/abs/1506.05270
+
+[MorphScala: Safe Class Morphing with Macros]: http://cgi.di.uoa.gr/~biboudis/morphscala.pdf
+
+[Clash of the Lambdas]: http://arxiv.org/abs/1406.6631
+
+[Reified Type Parameters Using Java Annotations]: http://cgi.di.uoa.gr/~biboudis/reified-annot-gpce13.pdf
+
+[http://cgi.di.uoa.gr/~biboudis/forsaking-inheritance-oopsla13.pdf]: 
 
 ### Activities
 
