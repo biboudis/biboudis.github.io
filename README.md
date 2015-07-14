@@ -39,7 +39,8 @@ science and geek stuff [@biboudis](https://twitter.com/biboudis).
   networks.
   - E. Zervas, A. Biboudis, C. Anagnostopoulos, O. Sekkas, and
     S. Hadjiefthymiades, "[Multisensor data fusion for fire detection][]"
-  - "[Data fusion based on evidence theory: Application to the early warning fire][]"
+  - BSc Thesis:
+    "[Data fusion based on evidence theory: Application to the early warning fire][]"
   - Projects: [IDIRA](http://www.idira.eu/), [SCIER](http://www.scier.eu/),
     [MNISIKLIS](http://speech.di.uoa.gr/mnisiklis/)
 
