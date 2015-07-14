@@ -5,7 +5,7 @@ supervision of [Yannis Smaragdakis](http://www.di.uoa.gr/~smaragd/) since July 2
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/biboudis) and via
 email. You can find bits of my work under my
-[Github](https://github.com/biboudis) page. I like about PL, computer
+[Github](https://github.com/biboudis) page. I tweet about PL, computer
 science and geek stuff [@biboudis](https://twitter.com/biboudis).
 
 e-mail: biboudis [at] di.uoa.gr 
