@@ -8,7 +8,7 @@ email. You can find bits of my work under my
 [Github](https://github.com/biboudis) page. I tweet about PL, computer
 science and geek stuff [@biboudis](https://twitter.com/biboudis).
 
-e-mail: ![](images/myemail.png) 
+![](images/myemail.png) 
 
 ### Interests
 
@@ -70,18 +70,6 @@ e-mail: ![](images/myemail.png)
 [Reified Type Parameters Using Java Annotations]: /papers/reified-annot-gpce13.pdf
 
 [Forsaking Inheritance: Supercharged Delegation in DelphJ]: /papers/forsaking-inheritance-oopsla13.pdf
-
-### Activities
-
-- ECOOP'15. Attended. Prague, Czech Republic.
-- ECOOP'14. Attended. Uppsala, Sweden.
-- POPL'14. Attended (PLMW Scholarship Award). San Diego, CA.
-- SPLASH'13. Attended (ACM SIGPLAN PAC Award). Indianapolis, IN.
-- Pre-SPLASH Programming Languages Fest. Attended. Indiana University Bloomington, IN.
-- Oregon Programming Languages Summer School 2013. Attended. Eugene, OR.
-- POPL'13. Attended (PLMW Scholarship Award). Rome.
-- Scala Days 2012. Attended. London.
-- Microsoft Tech·Ed Europe. Attended. Berlin (2009, 2010), Barcelona (2007, 2008).
 
 ### Talks
 
