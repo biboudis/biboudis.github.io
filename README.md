@@ -8,7 +8,7 @@ email. You can find bits of my work under my
 [Github](https://github.com/biboudis) page. I tweet about PL, computer
 science and geek stuff [@biboudis](https://twitter.com/biboudis).
 
-e-mail: ![images/myemail.gif]() 
+e-mail: ![](images/myemail.png) 
 
 ### Interests
 
