@@ -94,10 +94,10 @@ science and geek stuff [@biboudis](https://twitter.com/biboudis).
   Invited talk at Information Systems AUEB, Jan 2010
 
 ### Teaching
-- TA/Lab, K04-Introduction to Programming (2011) by Professor P. Stamatopoulos
-- TA, K10-Object Oriented Programming (2011, 2012) by Professor I. Karali
-- TA, K22-Operating Systems (2010, 2011, 2012) by Professor S. Hadjiefthymiades
 - TA, TP06-Compilers (2012) by Professor Y. Smaragdakis
+- TA, K22-Operating Systems (2010, 2011, 2012) by Professor S. Hadjiefthymiades
+- TA, K10-Object Oriented Programming (2011, 2012) by Professor I. Karali
+- TA/Lab, K04-Introduction to Programming (2011) by Professor P. Stamatopoulos
 
 ### Memberships
 - [ACM/SIGPLAN member](http://campus.acm.org/public/vcard/vcard.cfm?handle=biboudis)
