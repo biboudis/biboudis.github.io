@@ -59,11 +59,11 @@ science and geek stuff [@biboudis](https://twitter.com/biboudis).
 
 [mobiXeyes]: http://www.mobics.gr/projects/mobiXeyes
 
-[Streams à la carte: Extensible Pipelines with Object Algebras]: http://drops.dagstuhl.de/opus/volltexte/2015/5239/
+[Streams à la carte: Extensible Pipelines with Object Algebras]: /papers/streamalg-ecoop15.pdf
 
 [jUCM: Universal Class Morphing (position paper)]: http://arxiv.org/abs/1506.05270
 
-[MorphScala: Safe Class Morphing with Macros]: /papers/morphscala.pdf
+[MorphScala: Safe Class Morphing with Macros]: /papers/morphscala-scala14.pdf
 
 [Clash of the Lambdas]: http://arxiv.org/abs/1406.6631
 

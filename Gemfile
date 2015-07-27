@@ -6,3 +6,4 @@ source "https://rubygems.org"
 gem 'jekyll-sitemap'
 gem 'jekyll-watch'
 gem 'json'
+gem 'therubyracer'
