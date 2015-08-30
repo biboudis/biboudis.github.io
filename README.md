@@ -22,8 +22,11 @@ science and geek stuff [@biboudis](https://twitter.com/biboudis).
 - Programming Languages: I currently work on program generators, modular type systems and streams.
   - A. Biboudis, N. Palladinos, G. Fourtounis and Y. Smaragdakis,
     "[Streams à la carte: Extensible Pipelines with Object Algebras][]",
-    ECOOP'15 ([slides](https://speakerdeck.com/biboudis/streams-a-la-carte),
-    [code](http://biboudis.github.io/streamalg/), [bib](bibliography/streams-ecoop15.bib))
+    ECOOP'15
+    ([slides](https://speakerdeck.com/biboudis/streams-a-la-carte),
+    [code](http://biboudis.github.io/streamalg/),
+    [video](https://www.youtube.com/watch?v=rHzgkMW2AZ0),
+    [bib](bibliography/streams-ecoop15.bib))
   - A. Biboudis, G. Fourtounis and Y. Smaragdakis,
     "[jUCM: Universal Class Morphing (position paper)][]", MASPEGHI'15
     ([slides](https://speakerdeck.com/biboudis/jucm-universal-class-morphing))
