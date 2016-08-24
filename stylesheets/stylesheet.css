@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
   color:#222222;
-  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+  font-family: 'Dosis', sans-serif;
   letter-spacing: -1px;
 }
 
@@ -161,7 +161,6 @@ pre, code {
   width: 100%;
   color: #222;
   background-color: #fff;
-
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   font-size: 14px;
 
