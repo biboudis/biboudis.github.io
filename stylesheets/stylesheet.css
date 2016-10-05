@@ -373,7 +373,11 @@ Full-Width Styles
   background: #212121;
 }
 
-
+.scale
+{
+    height: 1em; 
+    width: 1em;
+}
 
 /*******************************************************************************
 Small Device Styles
