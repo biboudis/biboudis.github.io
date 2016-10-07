@@ -52,8 +52,8 @@ body {
   box-sizing: border-box;
   color:#373737;
   background: #212121;
-  font-size: 18px;
-  font-family: 'Dosis', sans-serif;
+  font-size: 16px;
+  font-family: 'Noto Sans', sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
   color:#222222;
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   letter-spacing: -1px;
 }
 
